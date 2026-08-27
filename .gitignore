@@ -24,6 +24,3 @@ pnpm-debug.log*
 *.sw?
 
 /src/firebase-config.js
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
